@@ -24,15 +24,15 @@
 - You can now run your DAPP on "http://localhost:8080/" and upload the images , write caption and even see the previous uploaded posts.
 
 ## **Screenshots**
-# Landing Page
+### Landing Page
 ![Landing Page](./images/landing.jpg)
-# Remix IDE Contract
+### Remix IDE Contract
 ![remix](./images/remix.jpg)
-# Metamask Connection
+### Metamask Connection
 ![Metamask](./images/metamask.jpg)
-# DAPP explaination
+### DAPP explaination
 ![Dapp](./images/dapp.png)
-# Posts
+### Posts
 ![Posts](./images/posts.jpg)
 
 ### References
